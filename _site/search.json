@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Curiosity | Imagination | Rigor",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 7, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Souvik Sarkar",
+    "section": "",
+    "text": "Souvik Sarkar"
+  },
+  {
+    "objectID": "souvik-sarkar.html",
+    "href": "souvik-sarkar.html",
+    "title": "Souvik Sarkar",
+    "section": "",
+    "text": "Professionally, I am a technical writer with experience in software and API documentation for developers, using docs-as-code and open source workflows. Sometimes I write code for hobby projects, as it also helps me understand the technology and my target audience better.\nIf you are interested in hiring me, here’s my resume and my GitHub profile."
+  },
+  {
+    "objectID": "souvik-sarkar.html#about-me",
+    "href": "souvik-sarkar.html#about-me",
+    "title": "Souvik Sarkar",
+    "section": "",
+    "text": "Professionally, I am a technical writer with experience in software and API documentation for developers, using docs-as-code and open source workflows. Sometimes I write code for hobby projects, as it also helps me understand the technology and my target audience better.\nIf you are interested in hiring me, here’s my resume and my GitHub profile."
+  },
+  {
+    "objectID": "souvik-sarkar.html#writing-samples",
+    "href": "souvik-sarkar.html#writing-samples",
+    "title": "Souvik Sarkar",
+    "section": "Writing samples",
+    "text": "Writing samples\n\nProfessional contributions\nOver the last several years, almost all of my professional work has been open source and available on my GitHub activities. You can dig into them if you want to observe how I actually perform in a work setting. Here are a few projects where I have contributed:\n\nRed Hat OpenShift: Merged Pull Requests for Documentation\nSUSE Linux Enterprise Server:\n\nSLE Guides - Merged Pull Requests\nModular Documentation for SLE\n\n\n\n\nFreelance/Interview samples\nI sometimes (rarely) take on short freelance gigs that I find interesting. And these days, most organizations ask to do take-home assignments as part of the interview process. I figured that I can put those assignments to good use after the interviews are over, by listing them as writing samples that other organizations can use for screening.\n\n[DevOps] Getting started with debugging pods in Kubernetes\n[QA Automation] Getting started to test automation using Selenium (Python), BrowserStack, and GitHub Actions\n[Git] Resolve merge conflicts resulting from wrong rebase\n[JavaScript] Creating an interactive weather dashboard using Vue.js and APIs\n[Python/ML/Cloud] Automatically interacting with Google Cloud Storage and Vision API using Python\n[Web API] An introduction to SOAP and REST for web services\n[Java] A critical analysis of a Java code snippet\n[Documentation] A short critical analysis of BrowserStack’s documentation\n\n\n\nTheoretical samples\nI love theory - algorithms and mathematics, and write solutions to problems that I like. Here are a few such pieces:\n\n[Algorithms] Winning strategy for calling 50 first\n[Combinatorics] Count the number of triangles"
+  }
+]
