@@ -1,13 +1,12 @@
 ---
 title: "Souvik Sarkar"
-image: assets/profile-modified.png
+image: assets/profile-modified-reduced.png
 about:
   template: solana
   links:
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/sounix000
-    - text: Email
-      href: mailto://sounix000@gmail.com
 
 ---
 
@@ -15,7 +14,7 @@ about:
 
 Professionally, I am a **technical writer** with experience in **software and API documentation for developers**, using **docs-as-code** and **open source** workflows. Sometimes I write code for hobby projects, as it also helps me understand the technology and my target audience better.
 
-If you are interested in hiring me, here's my [resume](assets/technical_writer_souvik_sarkar.pdf) and my [GitHub](https://github.com/sounix000) profile.
+If you are interested in hiring me, here's my [resume](assets/technical_writer_souvik_sarkar.pdf).
 
 ## Writing samples
 
