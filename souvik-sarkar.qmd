@@ -27,6 +27,7 @@ Over the last several years, almost all of my professional work has been open so
 - **SUSE Linux Enterprise Server**:
   - [SLE Guides - Merged Pull Requests](https://github.com/SUSE/doc-sle/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
   - [Modular Documentation for SLE](https://github.com/SUSE/doc-modular/pulls/sounix000)
+  - [Compliance and Certification Guides for SLE](https://github.com/SUSE/doc-unversioned/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
 
 ### Freelance/Interview samples
 
