@@ -1,7 +1,7 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
-date: "2024-01-07"
+author: "Souvik Sarkar"
+date: "2024-01-27"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---

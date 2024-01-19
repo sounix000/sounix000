@@ -4,11 +4,39 @@ project:
 
 website:
   title: "Curiosity | Imagination | Rigor"
+  site-url: https://sounix000.github.io
+  description: "Personal website and blog of Souvik Sarkar."
+  comments:
+    giscus:
+      repo: sounix000/sounix000.github.io
+      repo-id: R_kgDOLB23FQ
+      category: Announcements
+      category-id: DIC_kwDOLB23Fc4CciZZ
+      mapping: pathname
+      reactions-enabled: true
+      loading: lazy
+      input-position: top
+      theme: preferred_color_scheme
+      language: en
   navbar:
     right:
       - souvik-sarkar.qmd
       - icon: github
         href: https://github.com/sounix000
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/sounix000
+        aria-label: Twitter
+      - icon: share
+      - icon: rss
+        href: index.xml
+  search:
+    location: navbar
+    type: overlay
+  open-graph: true
+  twitter-card: 
+    site: "@sounix000"
+    creator: "@sounix000"
 format:
   html:
     theme: flatly

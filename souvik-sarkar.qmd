@@ -1,6 +1,7 @@
 ---
 title: "Souvik Sarkar"
 image: assets/profile-modified-reduced.png
+comments: false
 about:
   template: solana
   links:
