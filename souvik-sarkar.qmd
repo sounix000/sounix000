@@ -54,4 +54,3 @@ I love theory - **algorithms and mathematics**, and write solutions to problems 
 
 - [**Algorithms**] [Winning strategy for calling 50 first](theory/first_to_call_50.pdf)
 - [**Combinatorics**] [Count the number of triangles](theory/count_the_triangles_in_pentagon_star.pdf)
-
