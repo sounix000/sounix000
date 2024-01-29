@@ -44,7 +44,7 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
 - [**Web API**] [An introduction to SOAP and REST for web services](https://drive.google.com/file/d/1wABCvG-sgjyhlUJUST1YU53VwxlcwO24/view?usp=sharing)
 - [**Java**] [A critical analysis of a Java code snippet](https://drive.google.com/file/d/16YPI8X54eYzUzbGsMP4FLfpkfJIqcQF6/view?usp=sharing)
 - [**Documentation**] [A short critical analysis of BrowserStack's documentation](https://sounix000.github.io/browserstack-assignment/doc-analysis)
-- **General English Competency**
+- [**General English Competency**]
   - [How to play Tic-Tac-Toe](https://drive.google.com/file/d/1GQu6O50nHZf5QFRpdJ7SC4HzjfP5Fu7y/view?usp=sharing)
   - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)
 
