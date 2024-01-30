@@ -2,7 +2,13 @@
 title: "Souvik Sarkar"
 image: assets/profile-modified-reduced.png
 comments: false
-toc-location: left
+format: 
+  html: 
+    toc: true
+    toc-expand: true
+    toc-depth: 3
+    # toc-title: Contents
+    toc-location: right
 about:
   template: solana
   links:
