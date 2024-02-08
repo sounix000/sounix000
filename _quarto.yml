@@ -24,9 +24,6 @@ website:
       - icon: github
         href: https://github.com/sounix000
         aria-label: GitHub
-      - icon: twitter
-        href: https://twitter.com/sounix000
-        aria-label: Twitter
       - icon: share
       - icon: rss
         href: index.xml
