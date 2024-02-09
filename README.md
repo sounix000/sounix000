@@ -1,23 +1,3 @@
----
-title: "Souvik Sarkar"
-image: assets/profile-modified-reduced.png
-comments: false
-format: 
-  html: 
-    toc: true
-    toc-expand: true
-    toc-depth: 3
-    # toc-title: Contents
-    toc-location: right
-about:
-  template: solana
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/sounix000
-
----
-
 ## About me
 
 Professionally, I am a **technical writer** with experience in **software and API documentation for developers**, using **docs-as-code** and **open source** workflows. Sometimes I write code for hobby projects, as it also helps me understand the technology and my target audience better.
