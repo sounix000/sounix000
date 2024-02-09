@@ -1,5 +1,7 @@
 ## About me
 
+![](assets/profile-modified-reduced.png)
+
 Professionally, I am a **technical writer** with experience in **software and API documentation for developers**, using **docs-as-code** and **open source** workflows. Sometimes I write code for hobby projects, as it also helps me understand the technology and my target audience better.
 
 If you are interested in hiring me, here's my [resume](assets/technical_writer_souvik_sarkar.pdf).
