@@ -24,7 +24,7 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
 
 - [**DevOps**] [Getting started with debugging pods in Kubernetes](https://github.com/sounix000/kubernetes-basics/blob/main/debugging-pods-in-kubernetes.md)
 - [**QA Automation**] [Getting started to test automation using Selenium (Python), BrowserStack, and GitHub Actions](https://sounix000.github.io/browserstack-assignment/)
-- [**Git**] [Resolve merge conflicts resulting from wrong rebase](https://gist.github.com/sounix000/72cc7206df5bf71836e8ce9183b06e3f#file-reflog_reset-md)
+- [**Git**] [Resolve merge conflicts resulting from wrong rebase](tech_notes/reflog_reset.md)
 - [**JavaScript**] [Creating an interactive weather dashboard using Vue.js and APIs](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/)
 - [**Python/ML/Cloud**] [Automatically interacting with Google Cloud Storage and Vision API using Python](https://drive.google.com/file/d/1pA6JgW7Y3BKAdkH1QfviLtDtcxFfBbIf/view?usp=sharing)
 - [**Web API**] [An introduction to SOAP and REST for web services](https://drive.google.com/file/d/1wABCvG-sgjyhlUJUST1YU53VwxlcwO24/view?usp=sharing)
@@ -33,10 +33,3 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
 - [**General English Competency**]
   - [How to play Tic-Tac-Toe](https://drive.google.com/file/d/1GQu6O50nHZf5QFRpdJ7SC4HzjfP5Fu7y/view?usp=sharing)
   - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)
-
-### Theoretical samples
-
-I love theory - **algorithms and mathematics**, and write solutions to problems that I like. Here are a few such pieces:
-
-- [**Algorithms**] [Winning strategy for calling 50 first](theory/first_to_call_50.pdf)
-- [**Combinatorics**] [Count the number of triangles](theory/count_the_triangles_in_pentagon_star.pdf)
