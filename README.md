@@ -25,7 +25,7 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
 - [**DevOps**] [Getting started with debugging pods in Kubernetes](https://github.com/sounix000/kubernetes-basics/blob/main/debugging-pods-in-kubernetes.md)
 - [**QA Automation**] [Getting started to test automation using Selenium (Python), BrowserStack, and GitHub Actions](https://sounix000.github.io/browserstack-assignment/)
 - [**Git**] [Resolve merge conflicts resulting from wrong rebase](tech_notes/reflog_reset.md)
-- [**Linux**] [A very short introduction to the types of man pages in Linux](tech_notes/man_pages_types.md)
+- [**Linux**] [A very short introduction to the types of man pages in Linux](tech_notes/man_page_types.md)
 - [**JavaScript**] [Creating an interactive weather dashboard using Vue.js and APIs](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/)
 - [**Python/ML/Cloud**] [Automatically interacting with Google Cloud Storage and Vision API using Python](https://drive.google.com/file/d/1pA6JgW7Y3BKAdkH1QfviLtDtcxFfBbIf/view?usp=sharing)
 - [**Web API**] [An introduction to SOAP and REST for web services](https://drive.google.com/file/d/1wABCvG-sgjyhlUJUST1YU53VwxlcwO24/view?usp=sharing)
