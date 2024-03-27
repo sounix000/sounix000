@@ -29,8 +29,8 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
 - [**Git**] [Resolve merge conflicts resulting from wrong rebase](tech_notes/reflog_reset.md)
 - [**Linux**] [A concise introduction to the types of man pages in Linux](tech_notes/man_page_types.md)
 - [**JavaScript**] [Creating an interactive weather dashboard using Vue.js and APIs](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/)
-<!-- [**Java**] [A critical analysis of a Java code snippet](https://drive.google.com/file/d/16YPI8X54eYzUzbGsMP4FLfpkfJIqcQF6/view?usp=sharing)-->
 - [**Documentation**] [A short critical analysis of BrowserStack's documentation](https://sounix000.github.io/browserstack-assignment/doc-analysis)
+<!-- [**Java**] [A critical analysis of a Java code snippet](https://drive.google.com/file/d/16YPI8X54eYzUzbGsMP4FLfpkfJIqcQF6/view?usp=sharing)-->
 <!-- [**General English Competency**]
   - [How to play Tic-Tac-Toe](https://drive.google.com/file/d/1GQu6O50nHZf5QFRpdJ7SC4HzjfP5Fu7y/view?usp=sharing)
   - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)-->
