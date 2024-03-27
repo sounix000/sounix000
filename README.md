@@ -22,19 +22,19 @@ Over the last several years, most  of my professional work has been open source 
 
 Nowadays, most organizations ask to do take-home assignments as part of the interview process, and very rarely do they compensate me financially or make me sign an NDA. I figured that I could put those assignments to good use after the interviews are over, by listing them as **writing samples** that other organizations can use for screening.
 
+- [**Python/ML/Cloud**] [Automatically interacting with Google Cloud Storage and Vision API using Python](https://drive.google.com/file/d/1pA6JgW7Y3BKAdkH1QfviLtDtcxFfBbIf/view?usp=sharing)
+- [**Web API**] [An introduction to SOAP and REST for web services](https://drive.google.com/file/d/1wABCvG-sgjyhlUJUST1YU53VwxlcwO24/view?usp=sharing)
 - [**DevOps**] [Getting started with debugging pods in Kubernetes](https://github.com/sounix000/kubernetes-basics/blob/main/debugging-pods-in-kubernetes.md)
 - [**QA Automation**] [Getting started to test automation using Selenium (Python), BrowserStack, and GitHub Actions](https://sounix000.github.io/browserstack-assignment/)
 - [**Git**] [Resolve merge conflicts resulting from wrong rebase](tech_notes/reflog_reset.md)
-- [**Linux**] [A very short introduction to the types of man pages in Linux](tech_notes/man_page_types.md)
+- [**Linux**] [A concise introduction to the types of man pages in Linux](tech_notes/man_page_types.md)
 - [**JavaScript**] [Creating an interactive weather dashboard using Vue.js and APIs](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/)
-- [**Python/ML/Cloud**] [Automatically interacting with Google Cloud Storage and Vision API using Python](https://drive.google.com/file/d/1pA6JgW7Y3BKAdkH1QfviLtDtcxFfBbIf/view?usp=sharing)
-- [**Web API**] [An introduction to SOAP and REST for web services](https://drive.google.com/file/d/1wABCvG-sgjyhlUJUST1YU53VwxlcwO24/view?usp=sharing)
-- [**Java**] [A critical analysis of a Java code snippet](https://drive.google.com/file/d/16YPI8X54eYzUzbGsMP4FLfpkfJIqcQF6/view?usp=sharing)
+<!-- [**Java**] [A critical analysis of a Java code snippet](https://drive.google.com/file/d/16YPI8X54eYzUzbGsMP4FLfpkfJIqcQF6/view?usp=sharing)-->
 - [**Documentation**] [A short critical analysis of BrowserStack's documentation](https://sounix000.github.io/browserstack-assignment/doc-analysis)
-- [**General English Competency**]
+<!-- [**General English Competency**]
   - [How to play Tic-Tac-Toe](https://drive.google.com/file/d/1GQu6O50nHZf5QFRpdJ7SC4HzjfP5Fu7y/view?usp=sharing)
-  - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)
+  - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)-->
 
 ### Blog
 
-I maintain a blog at [https://sounix000.github.io/](https://sounix000.github.io/), where the posts are more mathematically inclined. Check them out if you want, but be aware of the fact that the posts are NOT a representation of my professional technical writing capabilities.
+I maintain a blog at [https://sounix000.github.io/](https://sounix000.github.io/), where the posts are more mathematically inclined. Check them out if you want, but be aware that the posts do NOT represent my professional technical writing capabilities.
