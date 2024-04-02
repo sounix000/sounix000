@@ -34,7 +34,3 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
 <!-- [**General English Competency**]
   - [How to play Tic-Tac-Toe](https://drive.google.com/file/d/1GQu6O50nHZf5QFRpdJ7SC4HzjfP5Fu7y/view?usp=sharing)
   - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)-->
-
-### Blog
-
-I maintain a blog at [https://sounix000.github.io/](https://sounix000.github.io/), where the posts are more mathematically inclined. Check them out if you want, but be aware that the posts do NOT represent my professional technical writing capabilities.
