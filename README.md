@@ -6,6 +6,10 @@ If you are interested in hiring me, here's my [resume](assets/technical_writer_s
 
 ## Writing samples
 
+- [Professional contributions](#professional-contributions)
+- [Interview samples](#interview-samples)
+- [Blog](#blog)
+
 ### Professional contributions
 
 Over the last several years, most  of my professional work has been open source and available on my GitHub activities. You can dig into them to observe how I perform in a work setting. Here are a few projects where I have contributed:
@@ -20,7 +24,7 @@ Over the last several years, most  of my professional work has been open source 
 
 ### Interview samples
 
-Nowadays, most organizations ask to do take-home assignments as part of the interview process, and very rarely do they compensate me financially or make me sign an NDA. I figured that I could put those assignments to good use after the interviews are over, by listing them as **writing samples** that other organizations can use for screening.
+Nowadays, most organizations ask to do take-home assignments as part of the interview process, and very rarely do they compensate me financially or make me sign an NDA. I could put those assignments to good use after the interviews, by listing them as **writing samples** that other organizations can use for screening.
 
 - [**Python/ML/Cloud**] [Automatically interacting with Google Cloud Storage and Vision API using Python](https://drive.google.com/file/d/1pA6JgW7Y3BKAdkH1QfviLtDtcxFfBbIf/view?usp=sharing)
 - [**Web API**] [An introduction to SOAP and REST for web services](https://drive.google.com/file/d/1wABCvG-sgjyhlUJUST1YU53VwxlcwO24/view?usp=sharing)
@@ -28,9 +32,13 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
 - [**QA Automation**] [Getting started to test automation using Selenium (Python), BrowserStack, and GitHub Actions](https://sounix000.github.io/browserstack-assignment/)
 - [**Git**] [Resolve merge conflicts resulting from wrong rebase](tech_notes/reflog_reset.md)
 - [**Linux**] [A concise introduction to the types of man pages in Linux](tech_notes/man_page_types.md)
+- [**Java**] [A critical analysis of a Java code snippet](https://drive.google.com/file/d/16YPI8X54eYzUzbGsMP4FLfpkfJIqcQF6/view?usp=sharing)
 - [**JavaScript**] [Creating an interactive weather dashboard using Vue.js and APIs](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/)
 - [**Documentation**] [A short critical analysis of BrowserStack's documentation](https://sounix000.github.io/browserstack-assignment/doc-analysis)
-<!-- [**Java**] [A critical analysis of a Java code snippet](https://drive.google.com/file/d/16YPI8X54eYzUzbGsMP4FLfpkfJIqcQF6/view?usp=sharing)-->
-<!-- [**General English Competency**]
+- [**General English Competency**]
   - [How to play Tic-Tac-Toe](https://drive.google.com/file/d/1GQu6O50nHZf5QFRpdJ7SC4HzjfP5Fu7y/view?usp=sharing)
-  - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)-->
+  - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)
+ 
+### Blog
+
+I have started a [blog](https://cuimri.com). The idea is to gradually migrate all of my technical content to the blog, making it the most definitive source of my writing.
