@@ -8,7 +8,6 @@ If you are interested in hiring me, here's my [resume](assets/technical_writer_s
 
 - [Professional contributions](#professional-contributions)
 - [Interview samples](#interview-samples)
-- [Blog](#blog)
 
 ### Professional contributions
 
@@ -39,6 +38,3 @@ Nowadays, most organizations ask to do take-home assignments as part of the inte
   - [How to play Tic-Tac-Toe](https://drive.google.com/file/d/1GQu6O50nHZf5QFRpdJ7SC4HzjfP5Fu7y/view?usp=sharing)
   - [Using an ATM for financial transactions](https://drive.google.com/file/d/1bYwXjJpVp2xU8VOlc3lSWyvKKKpI7P3-/view?usp=sharing)
  
-### Blog
-
-I have started a [blog](https://cuimri.com). The idea is to gradually migrate all of my technical content to the blog, making it the most definitive source of my writing.
