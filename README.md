@@ -1,10 +1,10 @@
 # About
-I am a technical writer with extensive experience in software documentation and development. My current areas of focus are:
+I am a **technical writer** with extensive experience in *software documentation* and *development*. My current areas of focus are:
 - System software
 - Network security
 - Cryptography
 
-For professional engagements: [Resume/CV]() | [Linkedin](https://www.linkedin.com/in/sounix000/) | [Email](mailto:sounix000@gmail.com)
+For professional engagements: [Resume/CV](./resume/technical_writer_souvik_sarkar.pdf) | [Linkedin](https://www.linkedin.com/in/sounix000/) | [Email](mailto:sounix000@gmail.com)
 
 # Portfolio
 
@@ -12,14 +12,39 @@ The following sections present an assorted collection of my professional documen
 
 ## Professional contributions
 
-Over the last several years, most of my professional work has been in open-source projects. If you are reviewing my portfolio to assess how I perform in a professional environment, the best way is to skim through the pull requests:
+Over the last several years, most of my *professional work* has been in *open-source projects*. If you are reviewing my portfolio to assess how I perform in a professional environment, the best way is to skim through the *merged pull requests*:
 
 ### SUSE:
-- [Merged pull requests for SUSE Linux Enterprise guides (legacy)](https://github.com/SUSE/doc-sle/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
-- [Merged pull requests for modular documentation of SUSE Linux Enterprise](https://github.com/SUSE/doc-modular/pulls/sounix000)
-- [Merged pull requests for Compliance and Certification guides of SUSE Linux Enterprise](https://github.com/SUSE/doc-unversioned/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
+- [**User Guides (legacy) for SUSE Linux Enterprise**](https://github.com/SUSE/doc-sle/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
+- [**Modular Documentation for SUSE Linux Enterprise**](https://github.com/SUSE/doc-modular/pulls/sounix000)
+- [**Compliance and Certification for SUSE Linux Enterprise**](https://github.com/SUSE/doc-unversioned/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
 
 ### Red Hat
-- [Merged pull requests for OpenShift Pipelines documentation](https://github.com/openshift/openshift-docs/pulls?q=is%3Apr+author%3Asounix000+is%3Aclosed)
+- [**OpenShift Pipelines**](https://github.com/openshift/openshift-docs/pulls?q=is%3Apr+author%3Asounix000+is%3Aclosed)
 
 ## Writing samples
+
+Many organizations ask to do take-home assignments as part of the interview process, and almost never compensates financially or impose a non-disclosure agreement. I have listed them as *writing samples* that other organizations can use for screening:
+
+- [**Python/ML/Cloud**]: [Automatically interacting with Google Cloud Storage and Vision API using Python](./portfolio/tech_docs/python_gcp_ml_vision.pdf)
+
+- [**QA/Automation**]: [Test automation using Selenium (Python), BrowserStack, and GitHub Actions](https://sounix000.github.io/browserstack-assignment/)
+
+- [**Dev-Ops**]: [Getting started with debugging pods in Kubernetes](./portfolio/tech_docs/debug_kubernetes_pods.md)
+
+- [**Linux**]: [A short introduction to man pages in Linux](./portfolio/tech_docs/man_pages.md)
+
+- [**Git**]: [Resolving incorrect Git rebase issues using reflog](./portfolio/tech_docs/git_reflog_reset.md)
+
+- [**Javascript**]: [Creating an interactive weather dashboard using Vue.js and APIs](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/)
+
+- [**Web/API**]: [An introduction to SOAP and REST for web services](./portfolio/tech_docs/RESTvsSOAP.pdf)
+
+- [**Code Review**]: [A critical analysis of a Java code snippet](./portfolio/tech_docs/FindNeedles.pdf)
+
+- [**Documentation Review**]: [A short critical analysis of BrowserStack's documentation](https://sounix000.github.io/browserstack-assignment/doc-analysis)
+
+- [**General English**]:
+  - [How to play Tic-Tac-Toe](./portfolio/tech_docs/TicTacToe.pdf)
+  - [Using an ATM for financial transactions](./portfolio/tech_docs/ATM.pdf)
+
