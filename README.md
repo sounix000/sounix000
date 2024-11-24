@@ -1,8 +1,10 @@
 # About
-I am a technical writer with extensive [experience]() in software documentation and development. My current areas of focus are:
+I am a technical writer with extensive experience in software documentation and development. My current areas of focus are:
 - System software
 - Network security
 - Cryptography
+
+For professional engagements: [Resume/CV]() | [Linkedin](https://www.linkedin.com/in/sounix000/) | [Email](mailto:sounix000@gmail.com)
 
 # Portfolio
 
