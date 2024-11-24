@@ -1,5 +1,5 @@
 # About
-I am a **technical writer** with extensive experience in *software documentation* and *development*. My current areas of focus are:
+I am a **programmer writer** with extensive experience in *software documentation* and *development*. My current areas of focus are:
 - System software
 - Network security
 - Cryptography
