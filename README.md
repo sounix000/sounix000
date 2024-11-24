@@ -4,7 +4,7 @@ I am a **technical writer** with extensive experience in *software documentation
 - Network security
 - Cryptography
 
-For professional engagements: [Resume/CV](./resume/technical_writer_souvik_sarkar.pdf) | [Linkedin](https://www.linkedin.com/in/sounix000/) | [Email](mailto:sounix000@gmail.com)
+For professional engagements: [Résumé](./resume/technical_writer_souvik_sarkar.pdf) | [Linkedin](https://www.linkedin.com/in/sounix000/) | [Email](mailto:sounix000@gmail.com)
 
 # Portfolio
 
