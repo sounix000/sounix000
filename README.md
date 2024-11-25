@@ -1,10 +1,5 @@
 # About
-I am a **technical writer** with extensive experience in *modular documentation* and *software development*. My current areas of focus are:
-- System software
-- Network security
-- Cryptography
-
-For professional engagements: [Résumé](./resume/technical_writer_souvik_sarkar.pdf) | [Linkedin](https://www.linkedin.com/in/sounix000/) | [Email](mailto:sounix000@gmail.com)
+I am a **technical writer** with extensive experience in *modular documentation* and *software development*. My current areas of focus are *system software*, *network security*, and *cryptography*. For professional engagements: [Résumé](./resume/technical_writer_souvik_sarkar.pdf) | [Linkedin](https://www.linkedin.com/in/sounix000/) | [Email](mailto:sounix000@gmail.com)
 
 # Portfolio
 The following sections present an assorted collection of my professional documentation contributions and writing samples.
