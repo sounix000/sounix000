@@ -8,7 +8,7 @@ The following sections present the highlights of my professional contributions a
 Over the last several years, most of my *professional work* has been in *open-source projects*. If you are reviewing my portfolio to assess how I perform in a professional environment, the best way is to skim through the *merged pull requests*:
 
 ### SUSE:
-- [**User Guides (legacy) for SUSE Linux Enterprise**](https://github.com/SUSE/doc-sle/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
+- [**Administration Guides (legacy) for SUSE Linux Enterprise**](https://github.com/SUSE/doc-sle/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
 - [**Modular Documentation for SUSE Linux Enterprise**](https://github.com/SUSE/doc-modular/pulls/sounix000)
 - [**Compliance and Certification for SUSE Linux Enterprise**](https://github.com/SUSE/doc-unversioned/pulls?q=is%3Apr+is%3Aclosed+author%3Asounix000)
 
